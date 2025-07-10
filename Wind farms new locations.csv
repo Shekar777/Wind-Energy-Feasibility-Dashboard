@@ -1,0 +1,76 @@
+Location,State,Latitude,Longitude,Avg_Wind_Speed_kmh,Wind_Speed_Class
+Nandyal,Andhra Pradesh,15.4786,78.4865,18,Medium
+Srikakulam,Andhra Pradesh,18.2969,83.8977,20,Medium
+Prakasam,Andhra Pradesh,15.7409,79.916,19,Medium
+Vizianagaram,Andhra Pradesh,18.1067,83.3956,19,Medium
+Mahbubnagar,Telangana,16.748,77.9866,17,Low
+Warangal,Telangana,17.9784,79.6002,18,Medium
+Khammam,Telangana,17.2473,80.1514,17,Low
+Gadchiroli,Maharashtra,20.1885,80,17,Low
+Chandrapur,Maharashtra,19.95,79.3,17,Low
+Bhandara,Maharashtra,21.1667,79.65,16,Low
+Yavatmal,Maharashtra,20.4,78.1333,17,Low
+Latur,Maharashtra,18.4,76.5667,18,Medium
+Nanded,Maharashtra,19.15,77.3333,18,Medium
+Parbhani,Maharashtra,19.2667,76.7833,17,Low
+Chhindwara,Madhya Pradesh,22.0574,78.9399,18,Medium
+Hoshangabad,Madhya Pradesh,22.75,77.7167,17,Low
+Sagar,Madhya Pradesh,23.85,78.75,17,Low
+Betul,Madhya Pradesh,21.912,77.901,18,Medium
+Dindori,Madhya Pradesh,22.95,81.0833,16,Low
+Khandwa,Madhya Pradesh,21.8333,76.35,18,Medium
+Bilaspur,Chhattisgarh,22.0904,82.1554,17,Low
+Korba,Chhattisgarh,22.345,82.697,17,Low
+Raigarh,Chhattisgarh,21.9,83.4,17,Low
+Jagdalpur,Chhattisgarh,19.07,82.03,18,Medium
+Balangir,Odisha,20.7167,83.4833,19,Medium
+Jharsuguda,Odisha,21.85,84.0167,18,Medium
+Bhadrak,Odisha,21.06,86.5,20,Medium
+Sambalpur,Odisha,21.4667,83.9667,18,Medium
+Medinipur,West Bengal,22.42,87.32,18,Medium
+Bankura,West Bengal,23.25,87.0667,18,Medium
+Jalpaiguri,West Bengal,26.5167,88.7333,17,Low
+Alipurduar,West Bengal,26.4833,89.5333,17,Low
+Idukki (high ranges),Kerala,9.85,77,22,High
+Palakkad (inland hills),Kerala,10.78,76.65,22,High
+Wayanad,Kerala,11.61,76.08,21,High
+Kozhikode (interior),Kerala,11.25,75.77,20,Medium
+Hassan,Karnataka,13.01,76.1,20,Medium
+Chikkamagaluru,Karnataka,13.32,75.77,20,Medium
+Shimoga,Karnataka,13.93,75.56,19,Medium
+Krishnagiri,Tamil Nadu,12.53,78.22,20,Medium
+Karur,Tamil Nadu,10.96,78.08,21,High
+Jafrabad,Gujarat,20.83,72.88,22,High
+Dholera,Gujarat,22.24,72.2,22,High
+Una,Gujarat,20.82,71.04,21,High
+Palanpur,Gujarat,24.17,72.43,19,Medium
+Naliya,Gujarat,23.26,68.83,22,High
+Narayan Sarovar,Gujarat,23.69,68.5,22,High
+Bhadla (unused zones),Rajasthan,27.53,71.88,24,Very High
+Jalore,Rajasthan,25.35,72.62,19,Medium
+Sirohi,Rajasthan,24.89,72.86,19,Medium
+Baran,Rajasthan,24.48,76.18,17,Low
+Pavagada (unused sectors),Karnataka,14.1,77.28,23,High
+Ballari (new ridges),Karnataka,15.18,76.92,20,Medium
+Raichur,Karnataka,16.2,77.36,20,Medium
+Chamarajanagar,Karnataka,11.93,76.94,20,Medium
+Ramanagara,Karnataka,12.72,77.28,20,Medium
+Nalgonda,Telangana,17.05,79.27,20,Medium
+Nagarkurnool,Telangana,16.48,78.43,20,Medium
+Medak,Telangana,18.04,78.26,20,Medium
+Ongole coast,Andhra Pradesh,15.5,80.03,23,High
+Machilipatnam coast,Andhra Pradesh,16.19,81.13,22,High
+Kakinada coast,Andhra Pradesh,16.94,82.22,22,High
+Yanam,Puducherry,16.73,82.22,22,High
+Karaikal,Puducherry,10.92,79.84,22,High
+Nagapattinam,Tamil Nadu,10.75,79.84,22,High
+Cuddalore coast,Tamil Nadu,11.73,79.77,22,High
+Pamban Island,Tamil Nadu,9.29,79.32,25,Very High
+Manamelkudi,Tamil Nadu,10.16,79.18,23,High
+Dhanushkodi (inland ridge),Tamil Nadu,9.17,79.42,25,Very High
+Tuticorin Offshore (deep sea),Tamil Nadu,8.5,78.1,25,Very High
+Alleppey coast,Kerala,9.5,76.33,22,High
+Kozhikode coast,Kerala,11.25,75.77,22,High
+Kanyakumari Offshore,Tamil Nadu,7.8,77.5,26,Very High
+Lakshadweep (Minicoy),UT,8.3,73,25,Very High
+Andaman (Little Andaman),UT,10.7,92.5,22,High

@@ -1,0 +1,77 @@
+Latitude,Longitude,Suggested_Turbine_Model,Manufacturer,Rotor_Diameter_m,Rated_Power_MW,Rotor_Speed_RPM,Annual_Energy_MWh
+15.4786,78.4865,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+18.2969,83.8977,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+15.7409,79.916,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+18.1067,83.3956,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+16.748,77.9866,No suitable model,–,,,, 
+17.9784,79.6002,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+17.2473,80.1514,No suitable model,–,,,, 
+20.1885,80.0,No suitable model,–,,,, 
+19.95,79.3,No suitable model,–,,,, 
+21.1667,79.65,No suitable model,–,,,, 
+20.4,78.1333,No suitable model,–,,,, 
+18.4,76.5667,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+19.15,77.3333,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+19.2667,76.7833,No suitable model,–,,,, 
+22.0574,78.9399,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+22.75,77.7167,No suitable model,–,,,, 
+23.85,78.75,No suitable model,–,,,, 
+21.912,77.901,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+22.95,81.0833,No suitable model,–,,,, 
+21.8333,76.35,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+22.0904,82.1554,No suitable model,–,,,, 
+22.345,82.697,No suitable model,–,,,, 
+21.9,83.4,No suitable model,–,,,, 
+19.07,82.03,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+20.7167,83.4833,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+21.85,84.0167,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+21.06,86.5,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+21.4667,83.9667,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+22.42,87.32,GE Cypress 6 MW,GE Vernova (USA),170,6.0,6–11,23700
+23.25,87.0667,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+26.5167,88.7333,No suitable model,–,,,, 
+26.4833,89.5333,No suitable model,–,,,, 
+9.85,77.0,GE Cypress 6 MW,GE Vernova (USA),170,6.0,6–11,23700
+10.78,76.65,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+9.49,76.33,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+12.52,75.0,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+11.25,75.77,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+8.078,77.541,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+9.6,78.0,GE Cypress 6 MW,GE Vernova (USA),170,6.0,6–11,23700
+8.4,76.9,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+13.23,79.5,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+13.63,79.43,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+16.3,81.13,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+16.02,80.81,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+14.5,78.83,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+13.9,75.5,GE Cypress 6 MW,GE Vernova (USA),170,6.0,6–11,23700
+15.14,75.0,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+13.6,77.8,GE Cypress 6 MW,GE Vernova (USA),170,6.0,6–11,23700
+14.3,76.4,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+17.0,74.5,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+14.67,74.83,GE Cypress 6 MW,GE Vernova (USA),170,6.0,6–11,23700
+17.9,73.93,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+21.7,70.3,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+22.0,71.2,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+23.1,70.2,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+22.9,69.7,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+23.5,69.7,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+22.8,69.2,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+23.25,68.9,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+8.28,73.04,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+10.7,92.5,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+13.2,93.0,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+11.5,92.7,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+10.2,92.8,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+9.9,92.3,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+11.6,92.6,Vestas V150-4.2,Vestas Wind Systems (Denmark),150,4.2,8–14,12122
+12.9,74.85,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+15.5,75.0,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+16.8333,75.7,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+14.4667,74.4167,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+13.6342,74.6943,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+13.0,77.6,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+12.97,77.56,Suzlon S144,Suzlon Energy (India),144,2.6,9–16,5865
+13.2,75.9,GE Cypress 6 MW,GE Vernova (USA),170,6.0,6–11,23700
+12.2958,76.6394,SG 5.8-170,Siemens Gamesa Renewable (Germany/Spain),170,5.8,7–11,22900
+
