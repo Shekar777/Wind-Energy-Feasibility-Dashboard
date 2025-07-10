@@ -1,4 +1,3 @@
-# Wind-Energy-Feasibility-Dashboard
 # 🌬️ Wind Energy Feasibility Dashboard
 
 A data-driven dashboard to evaluate the feasibility of wind energy projects across multiple locations using turbine specifications, wind speed data, and site characteristics.
